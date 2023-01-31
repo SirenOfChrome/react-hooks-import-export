@@ -1,3 +1,8 @@
+
+
+
+
+
 import React from "react";
 import howManyParks from "./parks/howManyParks";
 
@@ -6,3 +11,4 @@ function ColoradoStateParks() {
 
   return <h1>Colorado State Parks!</h1>;
 }
+export default ColoradoStateParks;
